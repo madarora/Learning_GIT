@@ -1,0 +1,10 @@
+Git/BitBucket/Git Hub/Git Lab/TFS/SVN
+JIRA
+Retro Dashboard
+SourceTree and its alternatives
+Junits
+Sonar and it's alternatives
+Methdology
+UML
+Basics of domain (Insurance and Telecom)
+Postman
